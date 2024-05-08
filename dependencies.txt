@@ -3,5 +3,6 @@ curl
 gnupg
 python3-colcon-common-extensions
 ros-humble-desktop
+ros-humble-gazebo-ros-pkgs
+ros-humble-xacro
 ros-dev-tools
-gz-harmonic
