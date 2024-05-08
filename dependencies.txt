@@ -1,0 +1,7 @@
+lsb-release
+curl
+gnupg
+python3-colcon-common-extensions
+ros-humble-desktop
+ros-dev-tools
+gz-harmonic
