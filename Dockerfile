@@ -3,7 +3,9 @@ FROM ubuntu:22.04
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install \
     curl \
+    cmake \
     gnupg2 \
+    pkg-config \
     lsb-release \
     git \
     build-essential \
